@@ -1,27 +1,37 @@
 [
-    {
-        "id":1,
-        "name":"PSG",
-        "contry":"Frace"
-    },
-    {
-        "id":2,
-        "name":"Barcelone",
-        "contry":"Espagne"
-    },
-    {
-        "id":3,
-        "name":"PReal MadridSG",
-        "contry":"Espagne"
-    },
-    {
-        "id":4,
-        "name":"Milan",
-        "contry":"Itali"
-    },
-    {
-        "id":5,
-        "name":"OM",
-        "contry":"Frace"
-    }
+	{
+		"id": 1,
+		"name": "Barcelone",
+		"contry": "Espagne"
+	},
+	{
+		"id": 2,
+		"name": "Barcelone",
+		"contry": "Espagne"
+	},
+	{
+		"id": 3,
+		"name": "Real MadridSG",
+		"contry": "Espagne"
+	},
+	{
+		"id": 4,
+		"name": "Milan",
+		"contry": "Itali"
+	},
+	{
+		"id": 5,
+		"name": "OM",
+		"contry": "Frace"
+	},
+	{
+		"id": 6,
+		"name": "Ifrane",
+		"contry": "Morocoo"
+	},
+	{
+		"id": 7,
+		"name": "Ifrane",
+		"contry": "Morocoo"
+	}
 ]
